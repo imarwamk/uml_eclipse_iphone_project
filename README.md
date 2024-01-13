@@ -12,22 +12,7 @@ This project includes:
 
 ## UML Class Diagram
 
-+-----------------------------------+
-|              iPhone               |
-+-----------------------------------+
-| - modelo: String                  |
-| - capacidadeArmazenamento: int    |
-|-----------------------------------|
-| + tocar(): void                   |
-| + pausar(): void                  |
-| + selecionarMusica(): void        |
-| + ligar(numero: String): void     |
-| + atender(): void                 |
-| + iniciarCorreioVoz(): void       |
-| + exibirPagina(url: String): void |
-| + adicionarNovaAba(): void        |
-| + atualizarPagina(): void         |
-+-----------------------------------+
+![iPhoneUML](https://github.com/godmnathan/uml-eclipse-iphone-project/assets/139720356/072c3ba7-d302-495d-840b-714fc521c6f5)
 
 The class diagram illustrates the relationships and interactions between different components of the iPhone system.
 
