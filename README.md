@@ -19,7 +19,6 @@ The class diagram illustrates the relationships and interactions between differe
 ## Project Structure
 
 - `src/`: Contains the Java source code for the iPhone class and the Main class.
-- `uml_diagram.png`: Image file containing the UML class diagram.
 
 ## Getting Started
 
